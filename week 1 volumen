@@ -1,0 +1,21 @@
+piramide
+leer volumen de una piramide
+si la piramide = 1/3 × Longitud de la base × Ancho de la base × Altura de la pirámide
+usar la formula v = 1/3 * b*h
+v es el volumen 
+donde b = base de la piramide 
+donde h es la altura
+imprimir el resultado
+volumen del cubo
+leer volumen del cubo
+Si representamos este valor igual como 'a'
+Volumen de un cubo = a × a × a = a³
+donde vc= a³
+imprimir resultado
+volumen de un esfera
+leer volumen de la esfera 
+El volumen de una esfera cuyo radio r es 4/3 πr³.
+donde  π = 3.14
+El volumen de una esfera = 4/3 ×π × r 3 
+imprimir resultado 
+fin
