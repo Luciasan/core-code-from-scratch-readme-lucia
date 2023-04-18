@@ -1,0 +1,6 @@
+solicitar numero a verificar "numero_a_verificar"
+si el numero es divisible entre 2 verifica el resulatdo como numero par
+si 8/2 es divisble entonces el resulatdo es un numero par
+si un numero no es divisible entre dos entonces verifica que es un numero impar
+imprimir "numero_a_verificar" par o impar si es o no divisible entre 2
+fin 
