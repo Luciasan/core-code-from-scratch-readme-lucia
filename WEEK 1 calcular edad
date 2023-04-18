@@ -1,0 +1,9 @@
+edad = ?
+leer edad 
+introducir fecha de nacimiento de la persona 
+fecha del dia actual
+llamar variable "fecha de nacimiento"
+llamar variable "dia actual"
+restar fecha de nacimiento con el dia actual
+imprimir edad de la persona
+fin
