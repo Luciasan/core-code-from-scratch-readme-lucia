@@ -1,0 +1,12 @@
+Algoritmo specialnumber
+	leer n
+	si n == 100 entonces 
+		imprimir "this is a special number"
+	sino 
+		si n < 100 & n % 10 == 0 entonces 
+			imprimir "this number is almost special"
+		SiNo
+			imprimir "just a regular number"
+		FinSi
+	FinSi
+FinAlgoritmo

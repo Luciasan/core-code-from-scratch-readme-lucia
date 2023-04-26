@@ -1,0 +1,9 @@
+Algoritmo sin_titulo
+	imprimir "ingrese número a verificar"
+	leer x 
+	si x % 2 == 0 entonces
+		imprimir "numero: " + convertiratexto(X) + " es par"
+	FinSi
+	leer x
+    imprimir  "numero"  + convertiratexto(x)  +  "es impar"
+FinAlgoritmo

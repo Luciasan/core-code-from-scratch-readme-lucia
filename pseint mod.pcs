@@ -1,4 +1,0 @@
-Algoritmo NazarethLucia
-	leer x
-	imprimir x % 2
-FinAlgoritmo
