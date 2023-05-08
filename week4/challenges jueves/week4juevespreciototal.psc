@@ -1,10 +1,13 @@
+Funcion variable_de_retorno <- calculareesultado ( valor1,valor2,* signo)
+	
+Fin Funcion
+
 Funcion valor <- totalprecio(precio,iva) 
 	definir valor como real
+	valor = (precio+(precio/100*iva))
 	si precio > 3000 Entonces
-		valor = (precio+(precio/100*iva)) /100*90
-	sino 
-		valor = (precio+(precio/100*iva)) 
-		finsi
+		valor = (valor) /100*90
+finsi
 FinFuncion
 
 Algoritmo preciototal
