@@ -1,0 +1,5 @@
+function firstWord(str) {
+    return str.substring(0, str.indexOf(' '));
+  }
+
+  

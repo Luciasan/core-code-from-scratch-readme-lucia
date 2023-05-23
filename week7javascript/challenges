@@ -1,0 +1,4 @@
+function normalize(date) {
+    return date.replace(/-/g, '/');
+    }
+    
