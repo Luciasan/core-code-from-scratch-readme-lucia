@@ -6,3 +6,5 @@ function warnTheSheep(queue) {
           (queue.length - wolf) +
           '! You are about to be eaten by a wolf!';
   }
+  console.log(warnTheSheep)
+  
